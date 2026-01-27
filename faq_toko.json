@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "tag": "jam_operasional",
@@ -35,4 +36,43 @@
 
   }
 
+=======
+[
+  {
+    "tag": "jam_operasional",
+    "keywords": ["jam buka", "jam buka toko", "jam operasional", "buka jam berapa", "sampai jam berapa", "tutup jam berapa", "jam berapa bukanya"],
+    "answer": "Cookiebite buka setiap hari dari jam 08.00 sampai jam 21.00 WIB."
+  },
+  {
+    "tag": "alamat",
+    "keywords": ["alamat toko", "lokasi", "di mana", "dimana", "maps", "margadana"],
+    "answer": "Alamat Cookiebite: Tegal Selatan, Kota Tegal, Jawa Tengah."
+  },
+  {
+    "tag": "cara_order",
+    "keywords": ["cara order", "cara pesan", "beli bagaimana", "order dimana", "order lewat apa", "pesan lewat apa"],
+    "answer": "Cara order di Cookiebite:\n• Gofood\n• Shopeefood\n• WhatsApp: 081327337031\n• Datang langsung ke alamat kami di Tegal Selatan, Kota Tegal."
+  },
+  {
+    "tag": "produk",
+    "keywords": ["jual apa saja", "jenis kue", "spill menunya", "produk apa saja", "ada brownies?", "menunya apa saja", "bento cake", "cookies", "birthday cake"],
+    "answer": "Cookiebite menyediakan cookies, bento cake, birthday cake, brownies, Chocolate Cookies dan berbagai macam cake lainnya."
+  },
+  { "tag": "pricelist",
+    "keywords": ["spill pricelist", "harganya berapa", "harga kue"],
+    "answer": "Harga mulai dari Rp. 10.000. Untuk info pricelist bisa hubungi No WhatsApp kami ya kak, No: 081327337031."
+
+  },
+  {"tag": "rekomendasi produk",
+   "keywords": ["Rekomendasi produk kak", "rekomendasi produk kak", "produk yang bestseller apa kak", "bestseller produknya apa aja  ya kak"],
+   "answer": "Produk bestseller kami ada Chocolate cookies, Butter Cookies, Almond Cookies."
+
+  },
+  { "tag": "kata kata kasar",
+    "keywords": ["tolol", "anjing", "bego", "goblok"],
+    "answer": "Mohon untuk menggunakan bahasa yang sopan!!!."
+
+  }
+
+>>>>>>> 6c8ca8f925dab4d0b71a2231642f1c52e6b4a255
 ]

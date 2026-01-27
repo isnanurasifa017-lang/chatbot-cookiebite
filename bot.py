@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 from telegram import Update
 from telegram.ext import (
     ApplicationBuilder, 
@@ -193,7 +193,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-=======
+
 from telegram import Update
 from telegram.ext import (
     ApplicationBuilder, 
@@ -388,4 +388,4 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> 6c8ca8f925dab4d0b71a2231642f1c52e6b4a255
+
